@@ -10,6 +10,7 @@ export default function Home() {
       <div className={styles.description} style={{color: 'blue'}}>
         Hej!??!!!
       </div>
+      <div>Då!!!</div>
     </main>
   )
 }
